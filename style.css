@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2
+@import url('https://fonts.googleapis.com/css2')
 
 :root {
 
@@ -6,13 +6,15 @@
 
 --verde: #6FFF57;
 
---branco: #FFFFFF;
+/* --branco: #FFFFFF; */
 
---botao-ativo: #3A375E;
+/* --botao-ativo: #3A375E; */
 
 --botao-inativo: rgba(58, 55, 94, 0.5);
 
 --texto-fundo: rgba(58, 55, 94, 0.3);
+
+}
 
 body {
 
@@ -52,6 +54,7 @@ font-size: 32px;
 
 }
 
-titulo-principal span (
-
+titulo-principal span {
 color: var(--verde);
+
+}
